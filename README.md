@@ -1,2 +1,2 @@
 # Meteorological Station
-The following proyect
+The following proyect is a DIY Meteorological Station cccccc
