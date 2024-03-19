@@ -1,6 +1,5 @@
 # Meteorological Station
-The following proyect is a DIY low cost meteorological station and a datalogger (DAQ).
-
+The following project is a DIY low-cost meteorological station and a data logger (DAQ). This system was created to measure the effectiveness of radiative cooling materials.
 
 | Meteorological Station|
 |:-----:|
@@ -16,4 +15,8 @@ The following proyect is a DIY low cost meteorological station and a datalogger 
 |Surounding temperature|
 |Box temperature| 
 
-
+## Table of Contents
+- [Introduction](#introduction)
+- [Radiative cooling](#Radiative)
+- [Meteorological Station](#Meteorological)
+- [DAQ](#DAQ)
